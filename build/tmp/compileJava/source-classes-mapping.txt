@@ -1,0 +1,10 @@
+model/Human.java
+ model.Human
+sevice/IGenaricSevice.java
+ sevice.IGenaricSevice
+sevice/IHumanSevice.java
+ sevice.IHumanSevice
+sevice/HumanSevice.java
+ sevice.HumanSevice
+controler/HumanServlet.java
+ controler.HumanServlet
